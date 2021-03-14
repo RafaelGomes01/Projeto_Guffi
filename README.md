@@ -9,7 +9,7 @@
   <p align="center">
     Projeto que busca trazer um plataforma para <br> realizar a gestão de eventos.
     <br />
-    <a href="https://github.com/RafaelGomes01/Projeto_Guffi"><strong>Ver Repositorio 
+    <a href="https://github.com/RafaelGomes01/Projeto_Gufi"><strong>Ver Repositorio 
     »</strong></a>
     <br />
     <br />
@@ -58,7 +58,7 @@ Esse projeto chegou a mim com a missão de desenvolver um sistema WEB/Mobile int
 <!-- Para Acessar -->
 ## Para acessar 💻
 <p id="acess">
-Para acessar o projeto, no final dele será disponibilizado um Link de acesso ao site, e um APK para instalar no seu SmartPhone.
+Para acessar o projeto, no final dele será disponibilizado um Link de acesso ao site, e um APK para fazer a instalação no seu SmartPhone.
 
 <!-- Contato -->
 ## Contato 📞
@@ -66,7 +66,7 @@ Para acessar o projeto, no final dele será disponibilizado um Link de acesso ao
 Email - <a href="rafamax500@gmail.com"> rafamax500@gmail.com </a><br>
 Linkedin - <a href="https://www.linkedin.com/in/rafael-gomes100/"> https://www.linkedin.com/in/rafael-gomes100/ </a>
 
-Link do Projeto - https://github.com/RafaelGomes01/Desenvolvimento-Banco-de-Dados
+Link do Projeto - https://github.com/RafaelGomes01/Projeto_Gufi
   
 
 
